@@ -1,0 +1,2 @@
+../Core/Src/retarget.c:16:5:_write	32	static
+../Core/Src/retarget.c:30:5:_read	32	static
